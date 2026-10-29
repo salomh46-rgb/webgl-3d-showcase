@@ -1,0 +1,6 @@
+{
+  "name": "ПолиЛабиринт 3D",
+  "description": "Низкополигональный 3D-лабиринт от первого лица со сбором реликвий, туманом войны на мини-карте и таблицей рекордов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
